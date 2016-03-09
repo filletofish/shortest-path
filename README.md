@@ -4,7 +4,6 @@ Solution of finding shortest path problem.
 Map is matrix N×N of integer numbers.
 
 For instance, this map is given:
-
 2 1 3
 5 8 2
 7 1 6
