@@ -14,8 +14,9 @@ The task is to find length of shortest path between (1,1) and (N,N) in matrix.
 In this case (1,1),(1,2),(1,3),(2,3),(3,3) – will be the shortest path, with length of 14.
 
 #### Input:
-N - map size
-matrix of map
+* N - map size
+* matrix of map
+
 
 #### Output:
-Length (integer) of shortest path found.
+* Length (integer) of shortest path found.
